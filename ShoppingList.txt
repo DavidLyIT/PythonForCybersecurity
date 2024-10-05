@@ -3,4 +3,7 @@ Bread
 Bananas
 Eggs
 
+Potato
+Ice cream
+Chocalate
 
